@@ -19,7 +19,6 @@ O programa funciona de forma interativa no console seguindo o fluxo:
 - **Jackson (ObjectMapper):** Utilizado para mapeamento de dados e desserialização do JSON retornado pela API.
 - **Java HttpClient:** Para realizar requisições HTTP assíncronas e síncronas.
 - **Java Streams & Lambdas:** Para filtragem dinâmica de modelos, ordenação e mapeamento eficiente de coleções.
-- **Generics:** Criação de uma interface genérica de conversão de dados (`IConverteDados`), permitindo reaproveitar o código de desserialização para qualquer classe/Record.
 - **Java Records:** Utilizados para criar DTOs (Data Transfer Objects) imutáveis e limpos para representar os dados da API.
 
 ## Arquitetura e Estrutura do Código
