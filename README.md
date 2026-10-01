@@ -34,7 +34,8 @@ O projeto foi dividido seguindo boas práticas de organização:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Guilherme-Miranda-Comitante/busca-veiculos-fipe-cli.git
+   cd busca-veiculos-fipe-cli/testefipe
    ```
 2. Abra o projeto na sua IDE favorita (IntelliJ IDEA, Eclipse, VS Code).
 3. Certifique-se de ter o **Maven** configurado para baixar as dependências do Spring e Jackson automaticamente.
